@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API_URL =
-  "http://localhost:5000/api/auth/users";
+  "https://teamtaskmanager-production-491c.up.railway.app/api/auth/users";
 
 export const getUsers =
   async () => {

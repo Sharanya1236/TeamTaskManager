@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/projects";
+const API_URL = "https://teamtaskmanager-production-491c.up.railway.app/api/projects";
 
 
 // GET PROJECTS
