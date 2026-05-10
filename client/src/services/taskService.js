@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://teamtaskmanager-production-491c.up.railway.app/api/tasks";
+const API_URL = "https://teamtaskmanager-rlum.onrender.com/api/tasks";
 
 
 // GET TASKS

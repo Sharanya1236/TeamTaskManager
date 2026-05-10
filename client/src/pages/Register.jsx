@@ -34,7 +34,7 @@ function Register() {
       try {
 
         await axios.post(
-          "https://teamtaskmanager-production-491c.up.railway.app/api/auth/register",
+          "https://teamtaskmanager-rlum.onrender.com/api/auth/register",
           {
             name,
             email,

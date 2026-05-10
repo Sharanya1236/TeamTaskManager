@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://teamtaskmanager-production-491c.up.railway.app/api/auth";
+const API_URL = "https://teamtaskmanager-rlum.onrender.com/api/auth";
 
 export const loginUser = async (userData) => {
   const response = await axios.post(
